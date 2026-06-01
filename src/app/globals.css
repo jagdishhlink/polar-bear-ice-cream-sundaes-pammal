@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-primary: #F47C3C;
+  --color-secondary: #FFC107;
+  --color-accent: #FF6B6B;
+  --color-bg: #FAF7F2;
+  --color-text: #333333;
+  --color-muted: #666666;
+  --color-surface: #FFFFFF;
+  --color-border: #E0E0E0;
+  --font-heading: "Playfair Display", sans-serif;
+  --font-body: "DM Sans", sans-serif;
+  --radius-button: 8px;
+  --radius-card: 12px;
+}
+
+body {
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  font-family: var(--font-body);
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--font-heading);
+}

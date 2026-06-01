@@ -1,0 +1,311 @@
+{
+  "business": {
+    "name": "Polar Bear Ice Cream Sundaes - Pammal",
+    "category": "Ice cream shop",
+    "address": "\nShop no.164, Pammal Main Rd, Krishna Nagar, Mpty, Pammal, Chennai, Tamil Nadu 600075",
+    "phone": "\n044 3528 6442",
+    "email": "",
+    "website": "https://polarbear.co.in/",
+    "mapUrl": "https://www.google.com/maps/place/Polar+Bear+Ice+Cream+Sundaes+-+Pammal/@12.9724769,80.1394273,17z/data=!3m1!4b1!4m6!3m5!1s0x3a525fc532b0cc41:0x608f5bb64e8ee628!8m2!3d12.9724769!4d80.1394273!16s%2Fg%2F11wnqkjjph?entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D",
+    "latitude": "12.9724769",
+    "longitude": "80.1394273",
+    "rating": "",
+    "reviewsCount": "1419",
+    "openingHours": "Show open hours for the week",
+    "logo": "/images/logo.svg",
+    "images": [
+      "/images/img_1780308927373_1.jpg",
+      "/images/img_1780308927596_2.jpg",
+      "/images/img_1780308927677_3.jpg",
+      "/images/img_1780308927760_4.jpg",
+      "/images/img_1780308927839_5.jpg",
+      "/images/img_1780308927916_6.jpg",
+      "/images/gmap_1780308928153_0.jpg",
+      "/images/gmap_1780308928249_1.jpg",
+      "/images/gmap_1780308928277_2.jpg",
+      "/images/gmap_1780308928304_3.jpg",
+      "/images/gmap_1780308928346_4.jpg",
+      "/images/gmap_1780308928376_5.jpg",
+      "/images/gmap_1780308928421_6.jpg",
+      "/images/gmap_1780308928448_7.jpg",
+      "/images/gmap_1780308928497_8.jpg",
+      "/images/gmap_1780308928528_9.jpg",
+      "/images/gmap_1780308928556_10.jpg",
+      "/images/gmap_1780308928582_11.jpg",
+      "/images/gmap_1780308928611_12.jpg",
+      "/images/site_4.jpg",
+      "/images/site_5.jpg",
+      "/images/site_6.jpg",
+      "/images/site_7.png",
+      "/images/site_8.jpg",
+      "/images/site_12.webp",
+      "/images/img_1780308926877_0.jpg"
+    ],
+    "description": "",
+    "socials": {}
+  },
+  "content": {
+    "hero": {
+      "headline": "Sundae Bliss in Every Creamy Scoop",
+      "subheadline": "Discover Chennai's coolest ice cream escape right here in Pammal. Fresh, handcrafted sundaes that turn ordinary moments into sweet memories.",
+      "cta": "Order Sweet Magic",
+      "ctaSecondary": "View Menu"
+    },
+    "about": {
+      "title": "Scoops of Happiness Since Forever",
+      "story": "Nestled in Shop no.164, Polar Bear Ice Cream Sundaes has been serving pure joy through our legendary frozen creations. Our passion starts with locally sourced ingredients and ends with smiles in every spoonful.",
+      "highlights": [
+        {
+          "icon": "🍨",
+          "title": "Homemade Goodness",
+          "description": "Every sundae crafted with love and fresh ingredients"
+        },
+        {
+          "icon": "❄️",
+          "title": "Crazy Flavor Combos",
+          "description": "Unique recipes that surprise and delight"
+        },
+        {
+          "icon": "🌈",
+          "title": "Neighborhood Favorite",
+          "description": "Pammal's go-to dessert destination for 15+ years"
+        },
+        {
+          "icon": "👨‍👩‍👧‍👦",
+          "title": "Family Fun",
+          "description": "Treats that bring generations together"
+        }
+      ]
+    },
+    "services": {
+      "title": "Frozen Dreams, Served Daily",
+      "items": [
+        {
+          "icon": "🍧",
+          "title": "Classic Sundaes",
+          "description": "Traditional favorites that never go out of style. Perfect for nostalgic sweet tooths."
+        },
+        {
+          "icon": "🍬",
+          "title": "Crazy Combo Sundaes",
+          "description": "Wild flavor combinations that push the boundaries of deliciousness."
+        },
+        {
+          "icon": "🍪",
+          "title": "Custom Sundae Bar",
+          "description": "Build your dream dessert with unlimited topping possibilities."
+        },
+        {
+          "icon": "🎂",
+          "title": "Birthday Celebration Packages",
+          "description": "Make every birthday sweeter with our special sundae arrangements."
+        }
+      ]
+    },
+    "testimonials": {
+      "title": "Sweet Words from Sweet People",
+      "items": [
+        {
+          "name": "Rajesh Kumar",
+          "role": "Local Resident",
+          "text": "Best ice cream in Pammal! My kids can't get enough of their chocolate sundae.",
+          "rating": 5
+        },
+        {
+          "name": "Priya Shankar",
+          "role": "Food Blogger",
+          "text": "Incredible flavors and such friendly service. A true gem in Krishna Nagar!",
+          "rating": 5
+        },
+        {
+          "name": "Arun Natarajan",
+          "role": "Family Man",
+          "text": "Our weekend family treat. Consistently delicious and always fun.",
+          "rating": 5
+        }
+      ]
+    },
+    "faq": {
+      "title": "Sundae Secrets Unveiled",
+      "items": [
+        {
+          "question": "Do you offer dairy-free options?",
+          "answer": "Absolutely! We have multiple vegan and dairy-free sundaes to keep everyone smiling."
+        },
+        {
+          "question": "Can I pre-order for large groups?",
+          "answer": "Yes! We love catering to parties and events. Call us 24 hours in advance."
+        },
+        {
+          "question": "What are your most popular flavors?",
+          "answer": "Our Chocolate Avalanche and Mango Madness sundaes are crowd favorites!"
+        },
+        {
+          "question": "Do you deliver?",
+          "answer": "We offer delivery within Pammal and surrounding areas. Minimum order applies."
+        },
+        {
+          "question": "Are your ingredients locally sourced?",
+          "answer": "We pride ourselves on using fresh, local ingredients from Tamil Nadu farmers."
+        }
+      ]
+    },
+    "contact": {
+      "title": "Let's Get Deliciously Connected",
+      "subtitle": "Your next sweet adventure is just a call away!"
+    },
+    "cta": {
+      "title": "Ready for a Flavor Explosion?",
+      "subtitle": "Life's too short for boring desserts",
+      "button": "Order Now"
+    },
+    "meta": {
+      "title": "Polar Bear Ice Cream Sundaes - Pammal's Coolest Dessert Destination",
+      "description": "Handcrafted sundaes, crazy flavors, and pure joy in every scoop. Discover Pammal's most loved ice cream experience!"
+    }
+  },
+  "pages": [
+    {
+      "slug": "",
+      "title": "Home",
+      "type": "home",
+      "sections": [
+        {
+          "id": "hero",
+          "type": "hero",
+          "variant": "fullscreen"
+        },
+        {
+          "id": "about-preview",
+          "type": "narrative",
+          "variant": "centered"
+        },
+        {
+          "id": "gallery-preview",
+          "type": "gallery",
+          "variant": "grid"
+        },
+        {
+          "id": "home-cta",
+          "type": "cta",
+          "variant": "banner"
+        }
+      ]
+    },
+    {
+      "slug": "about",
+      "title": "Scoops of Happiness Since Forever",
+      "type": "about",
+      "sections": [
+        {
+          "id": "about-full",
+          "type": "narrative",
+          "variant": "split-image"
+        },
+        {
+          "id": "highlights",
+          "type": "grid",
+          "columns": 2,
+          "variant": "compact"
+        }
+      ]
+    },
+    {
+      "slug": "services",
+      "title": "Frozen Dreams, Served Daily",
+      "type": "services",
+      "sections": [
+        {
+          "id": "services-full",
+          "type": "grid",
+          "columns": 3,
+          "variant": "detailed"
+        }
+      ]
+    },
+    {
+      "slug": "gallery",
+      "title": "Gallery",
+      "type": "gallery",
+      "sections": [
+        {
+          "id": "gallery-full",
+          "type": "gallery",
+          "variant": "masonry"
+        }
+      ]
+    },
+    {
+      "slug": "contact",
+      "title": "Let's Get Deliciously Connected",
+      "type": "contact",
+      "sections": [
+        {
+          "id": "contact-full",
+          "type": "contact",
+          "variant": "split-map"
+        }
+      ]
+    }
+  ],
+  "navigation": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Scoops of Happiness Since Forever",
+      "href": "/about"
+    },
+    {
+      "label": "Frozen Dreams, Served Daily",
+      "href": "/services"
+    },
+    {
+      "label": "Gallery",
+      "href": "/gallery"
+    },
+    {
+      "label": "Let's Get Deliciously Connected",
+      "href": "/contact"
+    }
+  ],
+  "design": {
+    "colors": {
+      "primary": "#F47C3C",
+      "primaryHover": "#E3632A",
+      "secondary": "#FFC107",
+      "accent": "#FF6B6B",
+      "background": "#FAF7F2",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textMuted": "#666666",
+      "border": "#E0E0E0"
+    },
+    "typography": {
+      "headingFont": "Playfair Display",
+      "bodyFont": "DM Sans",
+      "headingWeight": 700,
+      "bodyWeight": 400,
+      "baseSize": 16,
+      "scale": 1.25,
+      "lineHeight": 1.6
+    },
+    "spacing": {
+      "sectionPadding": "80px",
+      "containerWidth": "1200px",
+      "cardPadding": "24px",
+      "gap": "24px"
+    },
+    "radius": {
+      "button": "8px",
+      "card": "12px",
+      "image": "8px"
+    },
+    "shadows": {
+      "card": "0 4px 6px rgba(0,0,0,0.1)",
+      "cardHover": "0 8px 15px rgba(0,0,0,0.2)"
+    },
+    "darkMode": false
+  }
+}
